@@ -1,6 +1,7 @@
 
 Implementation of grep and regex written in Python. This is an educational project to learn more about how string matching and recursive functions work in Python. All features of grep and regex are being implemented from scratch. WIP
 based on: https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html. 
+
 Usage:
 
 | Syntax | Description |
